@@ -1,2 +1,2 @@
 # GREEN
- welcom to the Green world !
+ welcome to the Green world !
